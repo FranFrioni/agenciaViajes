@@ -1,0 +1,10 @@
+C:\Users\Fran\Desktop\AgenciaViajes\AppConsola\obj\Debug\AppConsola.csprojAssemblyReference.cache
+C:\Users\Fran\Desktop\AgenciaViajes\AppConsola\obj\Debug\AppConsola.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\AgenciaViajes\AppConsola\bin\Debug\AppConsola.exe.config
+C:\Users\Fran\Desktop\AgenciaViajes\AppConsola\bin\Debug\AppConsola.exe
+C:\Users\Fran\Desktop\AgenciaViajes\AppConsola\bin\Debug\AppConsola.pdb
+C:\Users\Fran\Desktop\AgenciaViajes\AppConsola\bin\Debug\Dominio.dll
+C:\Users\Fran\Desktop\AgenciaViajes\AppConsola\bin\Debug\Dominio.pdb
+C:\Users\Fran\Desktop\AgenciaViajes\AppConsola\obj\Debug\AppConsola.csproj.CopyComplete
+C:\Users\Fran\Desktop\AgenciaViajes\AppConsola\obj\Debug\AppConsola.exe
+C:\Users\Fran\Desktop\AgenciaViajes\AppConsola\obj\Debug\AppConsola.pdb

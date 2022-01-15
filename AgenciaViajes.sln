@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{3D0B100D-98B9-45CF-A55E-A36E8811C3D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{8C727205-B24D-4C20-BA68-29679F41FB43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppConsola", "AppConsola\AppConsola.csproj", "{7ACAF8CE-1B57-4B4F-9E30-8F3386934AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D0B100D-98B9-45CF-A55E-A36E8811C3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0B100D-98B9-45CF-A55E-A36E8811C3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0B100D-98B9-45CF-A55E-A36E8811C3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0B100D-98B9-45CF-A55E-A36E8811C3D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C727205-B24D-4C20-BA68-29679F41FB43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C727205-B24D-4C20-BA68-29679F41FB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C727205-B24D-4C20-BA68-29679F41FB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C727205-B24D-4C20-BA68-29679F41FB43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ACAF8CE-1B57-4B4F-9E30-8F3386934AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACAF8CE-1B57-4B4F-9E30-8F3386934AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACAF8CE-1B57-4B4F-9E30-8F3386934AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACAF8CE-1B57-4B4F-9E30-8F3386934AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01305EC1-74E4-48CE-B54F-9DD13E00356E}
+	EndGlobalSection
+EndGlobal
